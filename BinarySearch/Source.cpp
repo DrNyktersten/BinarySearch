@@ -1,4 +1,4 @@
-//This program demonstrates the binarySearch function, which 
+//This program demonstrates the binarySearch function,
 //performs a binary search on an integer array. 
 #include<iostream>
 using namespace std;
